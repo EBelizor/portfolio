@@ -32,7 +32,7 @@ footer a {
 }
 
 .wave {
-  background: linear-gradient(to left, #00c6ff, #328eff);
+  background: linear-gradient(to left, #32ded4ff, #002bdcff);
   min-height: 350px;
   color: #fff;
   display: flex;
@@ -91,7 +91,7 @@ footer a {
 
 .card-title {
   margin-top: 50px;
-  color: #328eff;
+  color: #002bdcff;
   text-align: center;
 }
 
@@ -100,7 +100,7 @@ footer a {
 }
 
 .card-icon{
-  color: #328eff;
+  color: #002bdcff;
   font-size: 50px;
 }
 
@@ -158,7 +158,7 @@ footer a {
 	 content: "";
 	 width: 3px;
 	 height: 100%;
-	 background: #328eff;
+	 background: #002bdcff;
 	 left: 50%;
 	 top: 0;
 	 position: absolute;
@@ -174,7 +174,7 @@ footer a {
 	 position: relative;
 }
  #timeline .timeline-item .timeline-icon {
-	 background: #328eff;
+	 background: #002bdcff;
 	 width: 50px;
 	 height: 50px;
 	 position: absolute;
@@ -196,7 +196,7 @@ footer a {
 }
  #timeline .timeline-item .timeline-content h2 {
 	 padding: 15px;
-	 background: #328eff;
+	 background: #002bdcff;
 	 color: #fff;
 	 margin: -20px -20px 0 -20px;
 	 font-weight: 300;
@@ -214,7 +214,7 @@ footer a {
 	 height: 0;
 	 border-top: 7px solid transparent;
 	 border-bottom: 7px solid transparent;
-	 border-left: 7px solid #328eff;
+	 border-left: 7px solid #002bdcff;
 }
  #timeline .timeline-item .timeline-content.right {
 	 float: right;
@@ -224,11 +224,11 @@ footer a {
 	 right: 45%;
 	 left: inherit;
 	 border-left: 0;
-	 border-right: 7px solid #328eff;
+	 border-right: 7px solid #002bdcff;
 }
  .btn {
-	 background-color: #328eff;
-   border: 2px solid #328eff;
+	 background-color: #002bdcff;
+   border: 2px solid #002bdcff;
    color: #fff;
    border-radius: 0;
 
@@ -251,7 +251,7 @@ footer a {
 		 left: 10%;
 		 margin-left: -6px;
 		 border-left: 0;
-		 border-right: 7px solid #328eff;
+		 border-right: 7px solid #002bdcff;
 	}
 	 #timeline .timeline-item .timeline-icon {
 		 left: 0;
@@ -294,7 +294,7 @@ footer a {
   left: 0;
   height: 50px;
   padding: 10px;
-  background: #328eff;
+  background: #002bdcff;
   border: 0;
   border-radius: 0;
 }
