@@ -91,7 +91,7 @@ footer a {
 
 .card-title {
   margin-top: 50px;
-  color: #002bdcff;
+  color: #328eff;
   text-align: center;
 }
 
@@ -100,7 +100,7 @@ footer a {
 }
 
 .card-icon{
-  color: #002bdcff;
+  color: #328eff;
   font-size: 50px;
 }
 
@@ -158,7 +158,7 @@ footer a {
 	 content: "";
 	 width: 3px;
 	 height: 100%;
-	 background: #002bdcff;
+	 background: #328eff;
 	 left: 50%;
 	 top: 0;
 	 position: absolute;
@@ -174,7 +174,7 @@ footer a {
 	 position: relative;
 }
  #timeline .timeline-item .timeline-icon {
-	 background: #002bdcff;
+	 background: #328eff;
 	 width: 50px;
 	 height: 50px;
 	 position: absolute;
@@ -196,7 +196,7 @@ footer a {
 }
  #timeline .timeline-item .timeline-content h2 {
 	 padding: 15px;
-	 background: #002bdcff;
+	 background: #328eff;
 	 color: #fff;
 	 margin: -20px -20px 0 -20px;
 	 font-weight: 300;
@@ -214,7 +214,7 @@ footer a {
 	 height: 0;
 	 border-top: 7px solid transparent;
 	 border-bottom: 7px solid transparent;
-	 border-left: 7px solid #002bdcff;
+	 border-left: 7px solid #328eff;
 }
  #timeline .timeline-item .timeline-content.right {
 	 float: right;
@@ -224,11 +224,11 @@ footer a {
 	 right: 45%;
 	 left: inherit;
 	 border-left: 0;
-	 border-right: 7px solid #002bdcff;
+	 border-right: 7px solid #328eff;
 }
  .btn {
-	 background-color: #002bdcff;
-   border: 2px solid #002bdcff;
+	 background-color: #328eff;
+   border: 2px solid #328eff;
    color: #fff;
    border-radius: 0;
 
